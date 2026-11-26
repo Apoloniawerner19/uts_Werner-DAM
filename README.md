@@ -24,8 +24,10 @@
 
 ## 3. Goal / Tujuan
 
-****Topik yang digunakan adalah **Pariwisata & Ekonomi Kreatif Provinsi Nusa Tenggara Timur (NTT) per Kabupaten/Kota**. Proyek ini bertujuan mengakuisisi data destinasi dan ekraf melalui dataset terbuka (≥ 100 baris), cuaca harian 22 kabupaten/kota via Open-Meteo API (≥ 30 baris), serta tabel statistik BPS yang mematuhi `robots.txt`. Data kemudian dibersihkan, divalidasi, dan digabungkan (`merge` dengan `validate="one_to_one"`) berdasarkan kunci `kabupaten_kota` untuk analisis dan visualisasi.
----****=
+Topik yang digunakan adalah **Pariwisata & Ekonomi Kreatif Provinsi Nusa Tenggara Timur (NTT) per Kabupaten/Kota**. Proyek ini bertujuan mengakuisisi data destinasi dan ekraf melalui dataset terbuka (≥ 100 baris), cuaca harian 22 kabupaten/kota via Open-Meteo API (≥ 30 baris), serta tabel statistik BPS yang mematuhi `robots.txt`. Data kemudian dibersihkan, divalidasi, dan digabungkan (`merge` dengan `validate="one_to_one"`) berdasarkan kunci `kabupaten_kota` untuk analisis dan visualisasi.
+
+---
+6
 
 ## 4. Data Raw
 
