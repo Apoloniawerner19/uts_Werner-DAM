@@ -1,13 +1,6 @@
 # UTS Data Acquisition & Management — UTS_DAM_2501010151
-
-**Topik:** Pariwisata & Ekonomi Kreatif Provinsi Nusa Tenggara Timur (NTT) per Kabupaten/Kota  
-**Alur:** (a) berkas dataset → (b) API Open-Meteo → (c) scraping situs pemerintah (BPS NTT) → gabungan (merge) → visual  
-**Struktur:** `Data/Raw` (data mentah, tidak diubah) · `Data/Process` (hasil olah) · `docs` (provenance, checklist, bukti robots.txt)
-
----
-
-## 1. Data Diri
-
+--
+6## 1. Data Diri
 | Keterangan | Identitas |
 | :--- | :--- |
 | **Nama** | Apolonia Werner |
