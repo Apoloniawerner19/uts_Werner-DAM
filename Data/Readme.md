@@ -1,6 +1,5 @@
-# UTS Data Acquisition & Management — UTS_DAM_2501010151
---
-6## 1. Data Diri
+# UTS Data Acquisition & Management — UTS_DAM_2501010151.
+**Data Diri***
 | Keterangan | Identitas |
 | :--- | :--- |
 | **Nama** | Apolonia Werner |
