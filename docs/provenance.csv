@@ -1,0 +1,4 @@
+sumber,berkas_raw,url,tanggal_akses,lisensi,hash_md5
+Dataset Terbuka Pariwisata & Ekraf NTT (OpenStreetMap),Data/Raw/dataset_wisata_ekraf_ntt.csv,https://overpass-api.de/api/interpreter,2026-11-26T16:54:16.853547,ODbL (OpenStreetMap Contributors),bea6d814bed634e2ab3cb768a5d02196
+Open-Meteo Weather API (22 Kabupaten/Kota NTT),Data/Raw/api_open_meteo_ntt.json,https://open-meteo.com,2026-11-26T16:55:26.540696,CC BY 4.0 (Open-Meteo),c389b88e76343ac560cf8d9cc3f318ee
+BPS Provinsi NTT (Tabel Daya Tarik Wisata),Data/Raw/scraping_daya_tarik_wisata_ntt.html,https://bps.go.id,2026-11-26T16:56:03.250838,Open Government Data Indonesia (BPS RI),7430a57ed8dfdec19296e8aa6692e4fa
